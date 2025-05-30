@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Social</h3>
+<h3 align="center">Social</h3>
 
 ###
 
