@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://t.me/fffffakogskcks" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="50" alt="telegram logo"  />
   </a>
