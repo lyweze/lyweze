@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" flex-direction="column">
   <img height="200" src="https://avatars.mds.yandex.net/i?id=87a386baa4cc8ad809b0ab9e6bb11c9f_l-5331561-images-thumbs&n=13"  />
   <img height="200" src="https://github.com/lyweze/lyweze/blob/main/pox.jpeg?raw=true"  />
 </div>
