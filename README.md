@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/lyweze/lyweze/blob/main/pox.jpeg?raw=true"  />
+  <img width="200" src="https://github.com/lyweze/lyweze/blob/main/pox.jpeg?raw=true"  />
 </div>
 
 ###
